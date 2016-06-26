@@ -1,0 +1,19 @@
+#!/bin/bash
+# installs a list of debian/ubuntu packages
+
+
+cli=(
+curl
+encfs
+git
+htop
+irssi
+screen
+sshfs
+trash-cli
+vim
+zsh
+)
+
+
+sudo apt-get update && sudo apt-get install ${cli[@]}
