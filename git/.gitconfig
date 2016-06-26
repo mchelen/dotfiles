@@ -1,0 +1,7 @@
+[user]
+	name = Mike Chelen
+	email = michael.chelen@gmail.com
+[push]
+	default = simple
+[core]
+	editor = vi
