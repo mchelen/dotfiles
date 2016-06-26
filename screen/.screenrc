@@ -15,4 +15,5 @@ defscrollback 5000
 # no welcome message
 startup_message off
 
-
+# default to zsh
+shell "/usr/bin/zsh"
