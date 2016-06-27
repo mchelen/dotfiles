@@ -1,0 +1,15 @@
+# installation
+
+sudo apt-get install stow
+
+cd
+
+git clone git@github.com:mchelen/dotfiles.git
+
+cd dotfiles
+
+stow vim
+
+stow screen
+
+# etc 
