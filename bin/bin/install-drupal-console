@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# https://drupalconsole.com/
+
+curl https://drupalconsole.com/installer -L -o $HOME/bin/drupal
+
+chmod +x $HOME/bin/drupal
+
+drupal init --override
+
+
