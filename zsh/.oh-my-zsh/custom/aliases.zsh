@@ -3,7 +3,7 @@
 
 alias p=pwd
 
-alias aptup='sudo apt-get update && sudo apt-get dist-upgrade'
+alias aptup='sudo apt update && sudo apt dist-upgrade'
 
 alias apti='sudo apt-get install'
 
