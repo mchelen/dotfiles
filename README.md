@@ -1,21 +1,21 @@
 # installation
 
-  sudo apt-get install stow
+    sudo apt-get install stow
 
-  cd
+    cd
 
-  git clone git@github.com:mchelen/dotfiles.git
+    git clone git@github.com:mchelen/dotfiles.git
 
 or
 
-  git clone https://github.com/mchelen/dotfiles.git
+    git clone https://github.com/mchelen/dotfiles.git
 
-  cd dotfiles
+    cd dotfiles
 
-  ./bin/bin/install-ohmyzsh
+    ./bin/bin/install-ohmyzsh
 
-  stow vim
+    stow vim
 
-  stow screen
+    stow screen
 
 # etc 
