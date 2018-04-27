@@ -1,6 +1,6 @@
 # installation
 
-    sudo apt-get install stow git zsh
+    sudo apt-get install stow git zsh curl
 
     cd
 
