@@ -1,0 +1,10 @@
+#!/bin/bash
+# installs a list of debian/ubuntu packages
+
+
+desktop=(
+gnome-tweaks
+)
+
+
+sudo apt-get update && sudo apt-get install ${desktop[@]}

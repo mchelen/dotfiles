@@ -1,0 +1,13 @@
+#!/bin/bash
+# installs a list of debian/ubuntu packages
+
+
+desktop=(
+gimp
+synaptic
+chromium-browser
+vlc
+)
+
+
+sudo apt-get update && sudo apt-get install ${desktop[@]}
