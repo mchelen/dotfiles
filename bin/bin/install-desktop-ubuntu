@@ -4,6 +4,7 @@
 
 desktop=(
 gnome-tweaks
+chrome-gnome-shell
 )
 
 
