@@ -9,3 +9,6 @@ export PATH=$HOME/.composer/vendor/bin:$PATH
 
 # drupal console
 source "$HOME/.console/console.rc" 2>/dev/null
+
+# npm local global
+export PATH=$HOME/.npm/bin:$PATH
