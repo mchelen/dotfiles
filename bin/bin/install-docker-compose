@@ -1,8 +1,0 @@
-#!/bin/bash
-# https://docs.docker.com/compose/install/#install-compose
-
-sudo apt-get install python-pip
-
-sudo pip install docker-compose
-
-

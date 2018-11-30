@@ -2,3 +2,5 @@
 # https://get.docker.com/
 
 curl -sSL https://get.docker.com/ | sh
+
+sudo apt-get install docker-compose
