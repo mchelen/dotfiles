@@ -1,14 +1,14 @@
 #!/bin/zsh
 
-# bin dir
+
+#### Path Stuff ####
+
+# ~/bin dir
 export PATH=$HOME/bin:$PATH
 
 # composer bin
 export PATH=$HOME/.config/composer/vendor/bin:$PATH
 export PATH=$HOME/.composer/vendor/bin:$PATH
-
-# drupal console
-source "$HOME/.console/console.rc" 2>/dev/null
 
 # npm local global
 export PATH=$HOME/.npm/bin:$PATH
