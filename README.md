@@ -19,3 +19,25 @@ or
     stow screen
 
 # etc 
+
+
+
+
+## Visual Studio Online
+
+
+
+Dotfiles Repository
+
+    https://github.com/mchelen/dotfiles
+
+Dotfiles Install Command
+
+    install-vso
+    
+Dotfiles Target Path
+
+    ~/dotfiles
+
+
+Reference: https://docs.microsoft.com/en-us/visualstudio/online/reference/personalizing
