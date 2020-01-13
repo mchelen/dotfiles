@@ -13,8 +13,10 @@
     stow vim
 
     stow screen
+    
+    stow zsh
 
-# etc 
+    # etc 
 
 
 
