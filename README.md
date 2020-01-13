@@ -4,11 +4,7 @@
 
     cd
 
-    git clone git@github.com:mchelen/dotfiles.git
-
-or
-
-    git clone https://github.com/mchelen/dotfiles.git
+    git clone https://github.com/mchelen/dotfiles
 
     cd dotfiles
 
