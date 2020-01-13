@@ -1,8 +1,11 @@
 #!/bin/bash
 
-sudo apt-get install stow git zsh curl
+sudo apt-get install -y stow git zsh curl
 
 
+# installs oh-my-zsh in unattended mode
+# https://github.com/ohmyzsh/ohmyzsh#unattended-install
 
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
 
 
