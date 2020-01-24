@@ -10,5 +10,5 @@ export PATH=$HOME/bin:$PATH
 export PATH=$HOME/.config/composer/vendor/bin:$PATH
 export PATH=$HOME/.composer/vendor/bin:$PATH
 
-# npm local global
+# npm global bin
 export PATH=$HOME/.npm/bin:$PATH
