@@ -1,5 +1,5 @@
 #!/bin/zsh
-# my aliases
+# custom aliases
 
 alias p=pwd
 

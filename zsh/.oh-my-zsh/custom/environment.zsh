@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 
-#### Path Stuff ####
+#### Custom Paths ####
 
 # ~/bin dir
 export PATH=$HOME/bin:$PATH
@@ -12,6 +12,10 @@ export PATH=$HOME/.composer/vendor/bin:$PATH
 
 # npm global bin
 export PATH=$HOME/.npm/bin:$PATH
+
+
+
+#### NVM ####
 
 # nvm
 export NVM_DIR="$HOME/.nvm"
