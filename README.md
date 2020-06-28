@@ -11,9 +11,7 @@
     ./bin/bin/install-ohmyzsh
 
     stow vim
-
     stow screen
-    
     stow zsh
 
     # etc 
