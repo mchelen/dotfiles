@@ -1,0 +1,12 @@
+#!/bin/bash
+# installs a base list of php packages
+
+
+cli=(
+php-cli
+php-xml
+php-curl
+)
+
+
+sudo apt-get update && sudo apt-get install ${cli[@]}
